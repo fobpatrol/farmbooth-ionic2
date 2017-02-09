@@ -1,10 +1,10 @@
 // AppName
-export const APP_NAME: string = 'Photogram2';
+export const APP_NAME: string = 'FarmBooth';
 
 // Parse
-export const PARSE_APP_ID: string     = 'myAppId';
-//export const PARSE_SERVER_URL: string = 'http://localhost:1337/parse/';
-export const PARSE_SERVER_URL: string = 'https://photogram.codevibe.io/parse/';
+export const PARSE_APP_ID: string     = '6a7b0123-98c2-4296-a60a-4a4d29ebb1de';
+//export const PARSE_SERVER_URL: string = 'http://localhost:4040/parse/';
+export const PARSE_SERVER_URL: string = 'https://parse.buddy.com/parse';
 
 // Google Maps
 export const GOOGLE_MAPS_WEB: string = 'AIzaSyC8eGCewEpCrfG_2OWoMHMsvDzglPIVzRA';
@@ -13,7 +13,7 @@ export const GOOGLE_MAPS_WEB: string = 'AIzaSyC8eGCewEpCrfG_2OWoMHMsvDzglPIVzRA'
 export const GOOGLE_ANALYTICS: string = 'UA-53950213-6';
 
 // Facebook
-export const facebook_appId: string      = '1024016557617380';
+export const facebook_appId: string      = '243372496113928';
 export const facebook_appVersion: string = 'v2.8';
 
 // Languages

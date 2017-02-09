@@ -1,7 +1,7 @@
 {
-  "name": "photogram2",
-  "author": "Willian Ribeiro Angelo",
-  "homepage": "http://photogram.codevibe.io/",
+  "name": "farmbooth",
+  "author": "Jonathan Le",
+  "homepage": "http://",
   "private": true,
   "scripts": {
     "ionic:build": "ionic-app-scripts build",

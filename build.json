@@ -1,10 +1,10 @@
 {
   "android": {
     "release": {
-      "keystore": "yourkey.keystore",
-      "alias": "alias",
-      "storePassword": "password",
-      "password" : "password"
+      "keystore": "my-release-key.keystore",
+      "alias": "alias_name",
+      "storePassword": "firewarden",
+      "password" : "firewarden"
     }
   }
 }

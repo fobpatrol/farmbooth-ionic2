@@ -123,11 +123,11 @@ export class PhotoListComponent implements OnInit {
                 resolve(data);
             }).catch(error => {
 
-                if (error.code == Parse.Error['INVALID_SESSION_TOKEN']) {
-                    this.User.logout();
-                    this.app.getRootNav().setRoot(AuthPage);
-                    this.util.toast('Invalid session, please login');
-                }
+ //               if (error.code == Parse.Error['INVALID_SESSION_TOKEN']) {
+ //                   this.User.logout();
+ //                   this.app.getRootNav().setRoot(AuthPage);
+ //                   this.util.toast('Invalid session, please login');
+ //               }
 
                 this.errorText     = error.message;
                 this.showErrorView = true;
